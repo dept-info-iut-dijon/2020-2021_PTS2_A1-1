@@ -4,7 +4,7 @@ Le logiciel Projax permet de faciliter la gestion de projets d'une entreprise sp
 ***
 <h1>Présentation du logiciel</h1>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Cur84t2qvE8&ab_channel=Mathis.Pct">
+  <a href="https://www.youtube.com/watch?v=n8u-vLATB4I&ab_channel=Mathis.Pct">
     <img src="media/miniature.jpg" width="800">
   </a>
 </p>
